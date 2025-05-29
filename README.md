@@ -6,7 +6,7 @@ Giffgaff节点搭建-worker/3x-ui
 
 -------------------------------------------------------------------------------
 ***⚠️ 免责声明***
-本免责声明适用于 GitHub 上的 “edgetunnel” 项目（以下简称“本项目”），项目链接为：https://github.com/cmliu/edgetunnel 。
+本免责声明适用于 GitHub 上的 “giffgaff" 项目（以下简称“本项目”），项目链接为:https://github.com/chen686868/giffgaff
 
 用途
 本项目仅供教育、研究和安全测试目的而设计和开发。旨在为安全研究人员、学术界人士及技术爱好者提供一个探索和实践网络通信技术的工具。
@@ -27,6 +27,10 @@ Giffgaff节点搭建-worker/3x-ui
 -------------------------------------------------------------------------------
 ***论坛大佬的二级域名申请地址***
 [https://dns.45mb.com/](https://dns.45mb.com)
+
+**友情链接**:
+https://www.yaohuo.me/bbs-1430565.html
+https://github.com/lowrie2000/test/blob/main/3x-ui-giffgaff.md
 
 ***1.  利用cf***
 适用于自己没服务器的，或者纯白嫖的，缺点是公交车，网速慢延迟高等。
