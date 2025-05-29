@@ -41,6 +41,7 @@ https://github.com/lowrie2000/test/blob/main/3x-ui-giffgaff.md
 建议使用修缮版：[https://github.com/cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
 
 edgetunnel主要有两种方式部署，分为cf的worker和pages，具体方法差不多，效果自测。
+
 **1.1.1 edgetunnel-worker**
 
 a.部署 CF Worker：
