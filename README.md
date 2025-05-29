@@ -28,6 +28,19 @@ Giffgaff节点搭建-worker/3x-ui
 ***论坛大佬的二级域名申请地址***
 [https://dns.45mb.com/](https://dns.45mb.com)
 
+**相关技巧**
+giffgaff 常用功能一览
+
+以下是一些常见功能的快速操作指令:
+
+●查询 SIM 卡号码:发送[NUMBER] 到43430
+
+查询话费余额:拨打[*100#]
+
+关闭语音信箱:拨打[##002#]
+
+开启语音信箱:拨打[*614431020#]
+
 **友情链接**:
 https://www.yaohuo.me/bbs-1430565.html
 https://github.com/lowrie2000/test/blob/main/3x-ui-giffgaff.md
